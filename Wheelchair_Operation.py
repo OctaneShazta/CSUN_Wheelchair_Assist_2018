@@ -1,6 +1,6 @@
 #Built for Toggle system, meaning once a command is pressed there is no active user input until the sequence is finished unless interrupted by a safety sensor.
 #This code is longer than necessary and full of commented out sections which were switched back on during testing.
-#Be kind, this was my first project :)
+#Be kind, this was my first project! :)
 
 #Active Sequence:
 #Button on screen is pressed
